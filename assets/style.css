@@ -3,13 +3,10 @@
         background-size: cover;
    }
 
- table {
-     border-collapse: separate;
-     border-spacing: 6px;
-}
+
 
 .container {
-     min-width: 800px;
+     min-width: 600px;
 }
 
 
